@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gimmeCoffeee and my name Jonathan.
+- 👀 I’m interested in web development, design, and coding.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can contact me at lane.jonathan_c@yahoo
