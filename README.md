@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development, design, and coding.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can contact me at lane.jonathan_c@yahoo
+- 📫 You can contact me at jonathan2cole@gmail
